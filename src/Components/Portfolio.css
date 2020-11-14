@@ -1,0 +1,8 @@
+.item-wrap > a > img {
+  height: 150px;
+  width: auto;
+}
+
+.repo {
+  text-align: center;
+}
