@@ -91,6 +91,13 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Hotel room reservation app",
+        "category": "React.js App(HTML, CSS, ReactJS)",
+        "image": "hotelReservation.jpeg",
+        "url": "https://serene-euclid-4256d9.netlify.app",
+        "repo": "https://github.com/abduh9350/hotel-reservation"
+      },
+      {
         "title": "E-commerce website with payment functionality",
         "category": "Amazon clone with full functionalities (React, JavaScript, Node, Express, MongoDB, Material UI, and Firebase)",
         "image": "Ecommerce-website.jpeg",
@@ -117,6 +124,27 @@
         "image": "hulu.jpeg",
         "url": "https://abdu-hulu.web.app/",
         "repo": "https://github.com/abduh9350/abdu-hulu"
+      },
+      {
+        "title": "AirBnb Clone with React",
+        "category": "AirBnb Clone built with ReactJS",
+        "image": "airbnb.jpeg",
+        "url": "https://abdu-airbnb.netlify.app/",
+        "repo": "https://github.com/abduh9350/abdu-airbnb"
+      },
+      {
+        "title": "Tinder Clone with React",
+        "category": "Tinder Clone built with ReactJS",
+        "image": "tinder.jpeg",
+        "url": "https://abdu-tinder.web.app/",
+        "repo": "https://github.com/abduh9350/abdu-tinder"
+      },
+      {
+        "title": " Chat App with React",
+        "category": "Chat App built with ReactJS",
+        "image": "abduChatApp.jpeg",
+        "url": "https://abdu-chatapp.netlify.app/",
+        "repo": "https://github.com/abduh9350/abdu-chatapp"
       }
     ]
   },
